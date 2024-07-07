@@ -38,6 +38,18 @@ Kabustan Kaçış, 3 boyutlu ve multiplayer bir macera oyunudur. Oyuncular, kabu
 - Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.
+- 
+  **Sprint Review**:
+- Map ve 3D araştırması yapıldı ve oyun mekanikleri oluşturuldu.
+- Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
+
+
+  **Sprint Retrospective:**
+- Roller ile ilgili düzenleme yapılmış, product owner ve scrum mastera karar verildi.
+- Tasarım grubu ile ayrı toplantı yapıldı. Modelleme konusunda görev dağılımı yapılmıştır.
+- Karakterin hareket animasyonları ve mekanikleri eklenmiştir.
+- Map üzerindeki engellere mekanikler eklenmiştir.
+
   
 Toplantı ve Whatsapp ScreenShotları 
 
