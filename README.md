@@ -1,5 +1,8 @@
 ## KABUSTAN KAÇIŞ
 
+![Grup72_1](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/c810d2a9-3679-4ab7-bca8-69a2ee1ff9e4)
+
+
 ## Takım ismi
 Takım 72
 
@@ -14,6 +17,7 @@ Takım 72
 Kabustan Kaçış
 
 ## Product Backlog URL
+https://app.asana.com/0/1207751157404300/1207751072420848
 
 ## Oyun Açıklaması
 Bir grup öğrenci, sıradan bir okul günü sırasında sınıfta uyuyakaldıklarında kendilerini korkunç kabusların içinde bulurlar.Buradan kaçmanın tek yolu ise engelleri aşmak ve tehlikeli düşmanlardan kaçmaktır.
@@ -52,6 +56,13 @@ Kabustan Kaçış, 3 boyutlu ve multiplayer bir macera oyunudur. Oyuncular, kabu
 
   
 Toplantı ve Whatsapp ScreenShotları 
+
+![72_2](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/dd22ecd7-819d-4c76-8eaf-3c961c339036)
+
+
+![72-3](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/9454ccc9-7945-466e-9dc5-789104d67458)
+
+
 
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
