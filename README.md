@@ -4,11 +4,11 @@
 Takım 72
 
 ## Takım üyeleri
-Caner Şahin
-Dilek Yıldırım
-Dilay Düzler
-Burak Ekemen
-Cem Ali Kocaoğlu
+***Caner Şahin*** - Product Owner
+***Dilek Yıldırım*** - Scrum Master
+***Dilay Düzler*** - Developer
+***Burak Ekemen*** - Developer
+***Cem Ali Kocaoğlu*** - Developer
 
 ## Oyunun Adı
 Kabustan Kaçış
