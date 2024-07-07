@@ -4,10 +4,10 @@
 Takım 72
 
 ## Takım üyeleri
-***Caner Şahin*** - Product Owner
-***Dilek Yıldırım*** - Scrum Master
-***Dilay Düzler*** - Developer
-***Burak Ekemen*** - Developer
+***Caner Şahin*** - Product Owner <br />
+***Dilek Yıldırım*** - Scrum Master <br />
+***Dilay Düzler*** - Developer <br />
+***Burak Ekemen*** - Developer <br />
 ***Cem Ali Kocaoğlu*** - Developer
 
 ## Oyunun Adı
