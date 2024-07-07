@@ -1,5 +1,6 @@
 ## KABUSTAN KAÇIŞ
 
+![Grup72_1](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/c810d2a9-3679-4ab7-bca8-69a2ee1ff9e4)
 
 
 ## Takım ismi
