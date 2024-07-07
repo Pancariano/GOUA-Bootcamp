@@ -67,6 +67,16 @@ Toplantı ve Whatsapp ScreenShotları
 
 
 
+ 
+
+
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
 - **Sprint 1 board update**: Sprint Board Screenshot: 
+
+
+
+![72_asana](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/17270af7-1757-47b0-8ed9-004849f11210)
+
+
+
