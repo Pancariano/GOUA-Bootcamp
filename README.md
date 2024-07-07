@@ -16,6 +16,7 @@ Takım 72
 Kabustan Kaçış
 
 ## Product Backlog URL
+https://app.asana.com/0/1207751157404300/1207751072420848
 
 ## Oyun Açıklaması
 Bir grup öğrenci, sıradan bir okul günü sırasında sınıfta uyuyakaldıklarında kendilerini korkunç kabusların içinde bulurlar.Buradan kaçmanın tek yolu ise engelleri aşmak ve tehlikeli düşmanlardan kaçmaktır.
