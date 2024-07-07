@@ -1,4 +1,5 @@
 ## KABUSTAN KAÇIŞ
+![Uploading image.png…]()
 
 ## Takım ismi
 Takım 72
