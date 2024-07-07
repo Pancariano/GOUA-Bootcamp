@@ -57,6 +57,9 @@ Kabustan Kaçış, 3 boyutlu ve multiplayer bir macera oyunudur. Oyuncular, kabu
   
 Toplantı ve Whatsapp ScreenShotları 
 
+![72_2](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/dd22ecd7-819d-4c76-8eaf-3c961c339036)
+
+
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
 - **Sprint 1 board update**: Sprint Board Screenshot: 
