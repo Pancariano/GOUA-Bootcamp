@@ -99,6 +99,10 @@ Toplantı ve Whatsapp ScreenShotları
 
   
 Toplantı ve Whatsapp ScreenShotları 
+![72-dc](https://github.com/Pancariano/GOUA-Bootcamp/blob/be3b63a881e2b53a6a8afa4931779eb214d3c3ea/images/discord%20konu%C5%9Fma.png)
+
+**Ürün Durumu**:
+
 ![72-lvl1](https://github.com/Pancariano/GOUA-Bootcamp/blob/979677765f88f873a547a5f559be2cb16c8f2bad/images/level1_1.png)
 ![72-lvl2](https://github.com/Pancariano/GOUA-Bootcamp/blob/a3adcf33067c483ff82feecf29f0b97927713edb/images/level1_2.png)
 ![72-lvl3](https://github.com/Pancariano/GOUA-Bootcamp/blob/a3adcf33067c483ff82feecf29f0b97927713edb/images/level1_3.png)
