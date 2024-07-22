@@ -66,6 +66,7 @@ Toplantı ve Whatsapp ScreenShotları
 ![72-3](https://github.com/Pancariano/GOUA-Bootcamp/assets/83187104/9454ccc9-7945-466e-9dc5-789104d67458)
 
 
+![72-lvl](https://github.com/Pancariano/GOUA-Bootcamp/blob/979677765f88f873a547a5f559be2cb16c8f2bad/images/level1_1.png)
 
  
 
