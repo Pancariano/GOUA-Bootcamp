@@ -67,6 +67,7 @@ Toplantı ve Whatsapp ScreenShotları
 
 
 
+
  
 
 
@@ -80,3 +81,24 @@ Toplantı ve Whatsapp ScreenShotları
 
 
 
+# **SPRINT 2**
+
+- Sprint içi puan değerlendirmesi 12 olarak belirlenmiştir.
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
+- 
+  **Sprint Review**:
+- Gerekli assetler bulundu ve level 1 için level tasarımı yapıldı
+- Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
+
+
+  **Sprint Retrospective:**
+- Tasarım grubu ile ayrı toplantı yapıldı.
+- Karakter ve engellere eklenecek scriptler için görüşmeler yapıldı
+- Düşman için daha fazla animasyon bulunması gerektiğine karar verildi
+
+  
+Toplantı ve Whatsapp ScreenShotları 
+![72-lvl1](https://github.com/Pancariano/GOUA-Bootcamp/blob/979677765f88f873a547a5f559be2cb16c8f2bad/images/level1_1.png)
+![72-lvl2](https://github.com/Pancariano/GOUA-Bootcamp/blob/a3adcf33067c483ff82feecf29f0b97927713edb/images/level1_2.png)
+![72-lvl3](https://github.com/Pancariano/GOUA-Bootcamp/blob/a3adcf33067c483ff82feecf29f0b97927713edb/images/level1_3.png)
