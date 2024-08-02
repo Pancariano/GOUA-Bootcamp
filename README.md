@@ -133,6 +133,8 @@ Toplantı ve Whatsapp ScreenShotları
 ![72-dc3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg)
 
 **Ürün Durumu**:
+![72-game1](https://github.com/Pancariano/GOUA-Bootcamp/blob/3758b30e592224b9d551f8c323079714cde23c15/images/game1.jpg)
+![72-game2](https://github.com/Pancariano/GOUA-Bootcamp/blob/3758b30e592224b9d551f8c323079714cde23c15/images/game2.jpg)
 
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
