@@ -125,7 +125,7 @@ Toplantı ve Whatsapp ScreenShotları
 - Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
 - 
 Toplantı ve Whatsapp ScreenShotları
-![72-dc3]([https://github.com/Pancariano/GOUA-Bootcamp/blob/be3b63a881e2b53a6a8afa4931779eb214d3c3ea/images/discord%20konu%C5%9Fma.png](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg))
+![72-dc3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg)
   **Sprint Retrospective:**
 - Ekip beraber toplantı yaptı
 - 3. level eklenebileceği konuşuldu
@@ -135,6 +135,6 @@ Toplantı ve Whatsapp ScreenShotları
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
 
-- **Sprint 2 board update**: Sprint Board Screenshot:
-- ![72-asana3]([images/asanaSP3.jpg](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/asanaSP3.jpg))
+- **Sprint 3 board update**: Sprint Board Screenshot:
+- ![72-asana3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/asanaSP3.jpg)
 
