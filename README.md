@@ -86,11 +86,10 @@ Toplantı ve Whatsapp ScreenShotları
 - Sprint içi puan değerlendirmesi 12 olarak belirlenmiştir.
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
-- 
+  
   **Sprint Review**:
 - Gerekli assetler bulundu ve level 1 için level tasarımı yapıldı
 - Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
-
 
   **Sprint Retrospective:**
 - Tasarım grubu ile ayrı toplantı yapıldı.
@@ -112,6 +111,30 @@ Toplantı ve Whatsapp ScreenShotları
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 
 - **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
 
-- **Sprint 1 board update**: Sprint Board Screenshot:
+- **Sprint 2 board update**: Sprint Board Screenshot:
 - ![72-asana2](https://github.com/Pancariano/GOUA-Bootcamp/blob/4942018886dc07d91a3544abad7518ad07e05d81/images/asana2.png)
+
+- # **SPRINT 3**
+
+- Sprint içi puan değerlendirmesi 14 olarak belirlenmiştir.
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. Üçüncü Sprint için bitirilmesi istenilen puan sayısı 14 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- **Daily Scrum**: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
+
+   **Sprint Review**:
+- Projeye 2. level eklendi. Animasyonlar, düşmanlar ve scriptler eklendi
+- Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
+- 
+Toplantı ve Whatsapp ScreenShotları
+![72-dc3]([https://github.com/Pancariano/GOUA-Bootcamp/blob/be3b63a881e2b53a6a8afa4931779eb214d3c3ea/images/discord%20konu%C5%9Fma.png](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg))
+  **Sprint Retrospective:**
+- Ekip beraber toplantı yaptı
+- 3. level eklenebileceği konuşuldu
+
+**Ürün Durumu**:
+
+- **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 
+- **Tasarım Grubu Üyeleri**: Caner, Dilek , Dilay, Burak , Cem Ali.
+
+- **Sprint 2 board update**: Sprint Board Screenshot:
+- ![72-asana3]([images/asanaSP3.jpg](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/asanaSP3.jpg))
 
