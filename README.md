@@ -123,12 +123,14 @@ Toplantı ve Whatsapp ScreenShotları
    **Sprint Review**:
 - Projeye 2. level eklendi. Animasyonlar, düşmanlar ve scriptler eklendi
 - Sprint Review katılımcıları: Caner Şahin , Dilek Yıldırım , Dilay Düzler , Burak Ekemen , Cem Ali Kocaoğlu.
-- 
-Toplantı ve Whatsapp ScreenShotları
-![72-dc3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg)
+  
+
   **Sprint Retrospective:**
 - Ekip beraber toplantı yaptı
 - 3. level eklenebileceği konuşuldu
+
+Toplantı ve Whatsapp ScreenShotları
+![72-dc3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/wpSP3.jpg)
 
 **Ürün Durumu**:
 
