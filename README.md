@@ -141,4 +141,3 @@ Toplantı ve Whatsapp ScreenShotları
 
 - **Sprint 3 board update**: Sprint Board Screenshot:
 - ![72-asana3](https://github.com/Pancariano/GOUA-Bootcamp/blob/805bf5020716a67db42d07a3ddfccb552300d29b/images/asanaSP3.jpg)
-
